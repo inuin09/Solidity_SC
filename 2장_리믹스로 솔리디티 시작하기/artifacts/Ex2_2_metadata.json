@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2장_리믹스로 솔리디티 시작하기/ex2_2.sol": "Ex2_2"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2장_리믹스로 솔리디티 시작하기/ex2_2.sol": {
+			"keccak256": "0xf4985aec567a556b3c0d63626657254a8615ce10ab6cf90401dd361883173564",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c1e39cfff8811d59b8152c2f1de40a19fff7d667d624ab01c2dcaadbed87f3aa",
+				"dweb:/ipfs/QmeELNiZrw46Hcgp7FdAiz5wzPnpkJtewVKRpvcM1mKFM8"
+			]
+		}
+	},
+	"version": 1
+}

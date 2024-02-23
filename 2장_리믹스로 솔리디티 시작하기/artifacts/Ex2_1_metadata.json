@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2장_리믹스로 솔리디티 시작하기/ex2_1.sol": "Ex2_1"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2장_리믹스로 솔리디티 시작하기/ex2_1.sol": {
+			"keccak256": "0x0026c849e25ab341a35bdc025b4565a4e2e5fe7eb87ae5a4404900306fdfaba0",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://77bc8001e14c0159a68db6f821302fe095285017a4b995d02630dc9502cf9d9f",
+				"dweb:/ipfs/QmRC4GmbdpxAoWx4boAQdxqnk3cjbvxkv2y6MNVFx5z5MU"
+			]
+		}
+	},
+	"version": 1
+}

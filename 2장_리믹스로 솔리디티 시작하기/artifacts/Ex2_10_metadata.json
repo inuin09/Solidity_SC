@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "left",
+				"outputs": [
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "right",
+				"outputs": [
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2장_리믹스로 솔리디티 시작하기/ex2_10.sol": "Ex2_10"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2장_리믹스로 솔리디티 시작하기/ex2_10.sol": {
+			"keccak256": "0x561100f44676891fd18de53d04df5b4ff73ff1a86b09251646f761543d4e1e38",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d7f710c0420c4944a8e1c7502a73ee39f27be331c6432162717487c8bf481162",
+				"dweb:/ipfs/QmWpGEVXSJiugpDQHcLKyeTrkYsFQw74h8A9wQF9vrC7jC"
+			]
+		}
+	},
+	"version": 1
+}

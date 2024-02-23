@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "compoundAssignment",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2장_리믹스로 솔리디티 시작하기/ex2_5.sol": "Ex2_5"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2장_리믹스로 솔리디티 시작하기/ex2_5.sol": {
+			"keccak256": "0xeed75faad719f9edc8bba4891891e8f7434ecb27941858674cfdfc0f56e794ae",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://afbc2cd2dc00fe232907b9d0877a77ff170f4d2293b72df9a2863000d56f99f7",
+				"dweb:/ipfs/QmXAau92MKqNoN2u7ZJX8W4dYkrMJ484gSEJQ7LoyasHm6"
+			]
+		}
+	},
+	"version": 1
+}

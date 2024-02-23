@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "arithmetic",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"2장_리믹스로 솔리디티 시작하기/ex2_4.sol": "Ex2_4"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"2장_리믹스로 솔리디티 시작하기/ex2_4.sol": {
+			"keccak256": "0xef25f8887aa47bf9a16424c40fefcd4c8528ea36e178b0417f722fc3bf6a2b31",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5aed5f1c89a11e9758d6fb954231f77f26f661fbc0837a761fe75e0a46f00cbc",
+				"dweb:/ipfs/Qmb5d8u6TYYoZYsACLqqPMiw462VPKagw8yZf5sq28e9g9"
+			]
+		}
+	},
+	"version": 1
+}
