@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "funExt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "outPutExt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"3장_가시성 지정자와 함수/ex3_20.sol": "Ex3_20"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"3장_가시성 지정자와 함수/ex3_20.sol": {
+			"keccak256": "0x399d50608a47c3fdb5e0b6b801059d0e0b21a7220dc6aeade7f37ea4a0f1ba3b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://af55492d5676609cde8c679f5a7667a4dc293c42988275d9750c139edc4a2fbb",
+				"dweb:/ipfs/QmR9JqEuzkqXB8Ugs5R2rGdS3EndYLRvzNZt6baTqJCZjw"
+			]
+		}
+	},
+	"version": 1
+}

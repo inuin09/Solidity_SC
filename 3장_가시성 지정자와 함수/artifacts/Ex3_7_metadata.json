@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myFun",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "weight",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"3장_가시성 지정자와 함수/ex3_7.sol": "Ex3_7"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"3장_가시성 지정자와 함수/ex3_7.sol": {
+			"keccak256": "0x4184e168d04ac845f8b5ab3f0a62b4e9ff2b5391832198b4ba1f45d8f975d669",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://1c253f4658a74244ac9f05af295f6b586cc266fad57ebe0419d524b898d21ce6",
+				"dweb:/ipfs/Qmd9MgYJfyqhfKTRW5LDUAy3p5vtYnubbYoq5uRRr4m4t3"
+			]
+		}
+	},
+	"version": 1
+}

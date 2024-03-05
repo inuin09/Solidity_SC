@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "str",
+						"type": "string"
+					}
+				],
+				"name": "myFun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"3장_가시성 지정자와 함수/ex3_16.sol": "Ex3_16"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"3장_가시성 지정자와 함수/ex3_16.sol": {
+			"keccak256": "0x833a56a8c59ec33e22172e5b13c2ae922fb029a185c5350cf50e806d7d9606d9",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://12d951e892a9a32d5b17507b9bd0b8df18792710c1075e2e088851e6c77ec457",
+				"dweb:/ipfs/QmbE4ZkeEqBEQLohGsaJbqGB8jDaYR7A64oP53XAk4M67m"
+			]
+		}
+	},
+	"version": 1
+}

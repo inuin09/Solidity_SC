@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myFun",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"3장_가시성 지정자와 함수/ex3_2.sol": "Ex3_2"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"3장_가시성 지정자와 함수/ex3_2.sol": {
+			"keccak256": "0x618e40c9999c8fe53aadd3a11c8bb2a3a5a8b4e9e1ed3bb461e9aebd99751595",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c00150c90c25644dd34c07bf0cd2ea663e8642d49783f8aa1ca5d69ddf3e1de0",
+				"dweb:/ipfs/Qmf5Nf6Q3gCfhDsWi9vX3EFPtJVuWh95UavMLgCDgkQLfM"
+			]
+		}
+	},
+	"version": 1
+}
