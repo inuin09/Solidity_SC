@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fun1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"4장_조건문과 반복문/ex4_7.sol": "Ex4_7"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"4장_조건문과 반복문/ex4_7.sol": {
+			"keccak256": "0x2796b48f568b0da4206d9599cc3fd4eadc80bd5ae2d3c4d20a0b9debd4fc9471",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://309113695dac89ad3a7700dc44dafd077c55e09b808ee5c06b355fbc2487890b",
+				"dweb:/ipfs/QmPo1csakJw2ZYCF3q1HpnjWYN48nfA3UEodS4C12eLL2x"
+			]
+		}
+	},
+	"version": 1
+}
